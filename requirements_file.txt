@@ -1,0 +1,106 @@
+# Core Streamlit and Web Framework
+streamlit==1.28.1
+streamlit-option-menu==0.3.6
+
+# Data Processing and Analysis
+pandas==2.1.1
+numpy==1.24.3
+scipy==1.11.3
+
+# Machine Learning and NLP
+scikit-learn==1.3.0
+nltk==3.8.1
+textblob==0.17.1
+spacy==3.7.2
+
+# Visualization Libraries
+plotly==5.17.0
+matplotlib==3.7.2
+seaborn==0.12.2
+wordcloud==1.9.2
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==0.8.11
+docx2txt==0.8
+
+# Database
+sqlite3
+# Note: sqlite3 is built into Python, but if you need additional features:
+# sqlalchemy==2.0.21
+
+# File Handling and Utilities
+pathlib2==2.3.7.post1
+requests==2.31.0
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Additional Data Tools
+openpyxl==3.1.2  # For Excel file handling
+xlsxwriter==3.1.9  # For Excel writing
+
+# Web Scraping (if needed for job data)
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Progress Bars and UI Enhancements
+tqdm==4.66.1
+rich==13.6.0
+
+# Email and Notifications
+smtplib
+# Note: smtplib is built-in, but for enhanced email features:
+yagmail==0.15.293
+
+# Authentication and Security
+bcrypt==4.0.1
+cryptography==41.0.7
+
+# Configuration Management
+python-dotenv==1.0.0
+configparser
+
+# Time and Date Utilities
+arrow==1.2.3
+
+# Mathematical Operations
+sympy==1.12
+
+# API Integration
+httpx==0.25.0
+aiohttp==3.8.6
+
+# Development and Testing
+pytest==7.4.2
+pytest-streamlit==1.0.0
+
+# Performance Monitoring
+psutil==5.9.5
+memory-profiler==0.61.0
+
+# Data Validation
+pydantic==2.4.2
+marshmallow==3.20.1
+
+# Async Programming
+asyncio
+concurrent.futures
+
+# Additional Utilities
+hashlib
+base64
+json
+re
+os
+sys
+time
+datetime
+collections
+itertools
+functools
+typing
+
+# Optional: For advanced features
+# streamlit-authenticator==0.2.3
+# streamlit-aggrid==0.3.4.post3
+# streamlit-tags==1.2.8
