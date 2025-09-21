@@ -298,7 +298,15 @@ Perfect for hackathons and demonstrations:
 4. **AI Insights**: Advanced analytics showcase
 5. **Impact Metrics**: Before/after comparisons
 
-<img width="500" height="500" alt="Screenshot 2025-09-21 115931" src="https://github.com/user-attachments/assets/f9e8702e-2df5-4894-bd13-238fd7b96fb3" />
+<div>
+    <img width="1363" height="683" alt="Screenshot 2025-09-21 115659" src="https://github.com/user-attachments/assets/92ab4fff-b709-48dc-bcef-35373c86d28e" />
+<img width="1365" height="634" alt="Screenshot 2025-09-21 115720" src="https://github.com/user-attachments/assets/1e7ca1ec-00ce-45a3-ae92-a6a3b3f52955" />
+<img width="1363" height="640" alt="Screenshot 2025-09-21 115746" src="https://github.com/user-attachments/assets/be280a52-ba96-4622-8b5c-008136987e1b" />
+<img width="1365" height="642" alt="Screenshot 2025-09-21 115812" src="https://github.com/user-attachments/assets/8661c6ad-33e0-4d40-aff0-390e730a2fd7" />
+<img width="1365" height="643" alt="Screenshot 2025-09-21 115831" src="https://github.com/user-attachments/assets/a3f41b51-fe1c-469f-b03d-6b3774292ecc" />
+<img width="1365" height="640" alt="Screenshot 2025-09-21 115905" src="https://github.com/user-attachments/assets/d91cc6c7-b99a-492f-b371-adad8d3b273a" />
+    <img width="500" height="500" alt="Screenshot 2025-09-21 115931" src="https://github.com/user-attachments/assets/f9e8702e-2df5-4894-bd13-238fd7b96fb3" />
+</div>
 
 ## 📞 Support
 
