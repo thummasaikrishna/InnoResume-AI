@@ -298,6 +298,8 @@ Perfect for hackathons and demonstrations:
 4. **AI Insights**: Advanced analytics showcase
 5. **Impact Metrics**: Before/after comparisons
 
+<img width="1365" height="639" alt="Screenshot 2025-09-21 115931" src="https://github.com/user-attachments/assets/f9e8702e-2df5-4894-bd13-238fd7b96fb3" />
+
 ## 📞 Support
 
 For support and questions:
