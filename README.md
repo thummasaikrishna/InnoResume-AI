@@ -299,7 +299,8 @@ Perfect for hackathons and demonstrations:
 5. **Impact Metrics**: Before/after comparisons
 
 <div>
-    <img width="1363" height="683" alt="Screenshot 2025-09-21 115659" src="https://github.com/user-attachments/assets/92ab4fff-b709-48dc-bcef-35373c86d28e" />
+    <img width="500" height="500" alt="Screenshot 2025-09-21 115659" src="https://github.com/user-attachments/assets/92ab4fff-b709-48dc-bcef-35373c86d28e" />
+    <img width="500" height="500" alt="Screenshot 2025-09-21 040001" src="https://github.com/user-attachments/assets/f2dc3871-c451-41a2-b21d-7bad173317a3" />
 <img width="500" height="" alt="Screenshot 2025-09-21 115720" src="https://github.com/user-attachments/assets/1e7ca1ec-00ce-45a3-ae92-a6a3b3f52955" />
 <img width="500" height="500" alt="Screenshot 2025-09-21 115746" src="https://github.com/user-attachments/assets/be280a52-ba96-4622-8b5c-008136987e1b" />
 <img width="500" height="500" alt="Screenshot 2025-09-21 115812" src="https://github.com/user-attachments/assets/8661c6ad-33e0-4d40-aff0-390e730a2fd7" />
